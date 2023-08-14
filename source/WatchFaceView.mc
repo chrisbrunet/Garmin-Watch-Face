@@ -2,6 +2,8 @@ import Toybox.Graphics;
 import Toybox.Lang;
 import Toybox.System;
 import Toybox.WatchUi;
+import Toybox.Time;
+import Toybox.Time.Gregorian;
 
 class WatchFaceView extends WatchUi.WatchFace {
 
@@ -25,8 +27,21 @@ class WatchFaceView extends WatchUi.WatchFace {
         // Get and show the current time
         var clockTime = System.getClockTime();
         var timeString = Lang.format("$1$:$2$", [clockTime.hour, clockTime.min.format("%02d")]);
-        var view = View.findDrawableById("TimeLabel") as Text;
-        view.setText(timeString);
+        var today = Gregorian.info(Time.now(), Time.FORMAT_MEDIUM);
+        var dateString = Lang.format(
+            "$1$ $2$ $3$",
+            [
+                today.day,
+                today.month,
+                today.year
+            ]
+        );
+
+        var timeView = View.findDrawableById("TimeLabel") as Text;
+        timeView.setText(timeString);
+
+        var dateView = View.findDrawableById("DateLabel") as Text;
+        dateView.setText(dateString);
 
         // Call the parent onUpdate function to redraw the layout
         View.onUpdate(dc);
