@@ -4,33 +4,47 @@
     <pcToLineNum>
         <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceApp.mc" id="1" lineNum="26" parent="globals" pc="268435460" symbol="getApp"/>
         <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceApp.mc" id="1" lineNum="27" parent="globals" pc="268435470" symbol="getApp"/>
-        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="2" lineNum="8" parent="globals/WatchFaceView" pc="268435486" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="5" lineNum="15" parent="globals/WatchFaceView" pc="268435505" symbol="onLayout"/>
-        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="5" lineNum="16" parent="globals/WatchFaceView" pc="268435507" symbol="onLayout"/>
-        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="7" lineNum="10" parent="globals/WatchFaceView" pc="268435549" symbol="initialize"/>
-        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="7" lineNum="11" parent="globals/WatchFaceView" pc="268435551" symbol="initialize"/>
-        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="9" lineNum="26" parent="globals/WatchFaceView" pc="268435570" symbol="onUpdate"/>
-        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="9" lineNum="28" parent="globals/WatchFaceView" pc="268435574" symbol="onUpdate"/>
-        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="9" lineNum="29" parent="globals/WatchFaceView" pc="268435591" symbol="onUpdate"/>
-        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="9" lineNum="30" parent="globals/WatchFaceView" pc="268435665" symbol="onUpdate"/>
-        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="9" lineNum="31" parent="globals/WatchFaceView" pc="268435702" symbol="onUpdate"/>
-        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="9" lineNum="40" parent="globals/WatchFaceView" pc="268435778" symbol="onUpdate"/>
-        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="9" lineNum="41" parent="globals/WatchFaceView" pc="268435806" symbol="onUpdate"/>
-        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="9" lineNum="43" parent="globals/WatchFaceView" pc="268435820" symbol="onUpdate"/>
-        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="9" lineNum="44" parent="globals/WatchFaceView" pc="268435848" symbol="onUpdate"/>
-        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="9" lineNum="47" parent="globals/WatchFaceView" pc="268435862" symbol="onUpdate"/>
-        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/bin/gen/006-B4024-00/source/Rez.mcgen" id="10" lineNum="7" parent="globals/Rez" pc="268435887" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceApp.mc" id="11" lineNum="5" parent="globals/WatchFaceApp" pc="268435911" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceApp.mc" id="12" lineNum="12" parent="globals/WatchFaceApp" pc="268435930" symbol="onStart"/>
-        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceApp.mc" id="13" lineNum="20" parent="globals/WatchFaceApp" pc="268435933" symbol="getInitialView"/>
-        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceApp.mc" id="13" lineNum="21" parent="globals/WatchFaceApp" pc="268435935" symbol="getInitialView"/>
-        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceApp.mc" id="14" lineNum="7" parent="globals/WatchFaceApp" pc="268435976" symbol="initialize"/>
-        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceApp.mc" id="14" lineNum="8" parent="globals/WatchFaceApp" pc="268435978" symbol="initialize"/>
-        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceApp.mc" id="15" lineNum="16" parent="globals/WatchFaceApp" pc="268435997" symbol="onStop"/>
-        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/bin/gen/006-B4024-00/source/Rez.mcgen" id="16" lineNum="19" parent="globals/Rez/Layouts" pc="268436000" symbol="WatchFace"/>
-        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/bin/gen/006-B4024-00/source/Rez.mcgen" id="16" lineNum="20" parent="globals/Rez/Layouts" pc="268436012" symbol="WatchFace"/>
-        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/bin/gen/006-B4024-00/source/Rez.mcgen" id="16" lineNum="22" parent="globals/Rez/Layouts" pc="268436147" symbol="WatchFace"/>
-        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/bin/gen/006-B4024-00/source/Rez.mcgen" id="16" lineNum="24" parent="globals/Rez/Layouts" pc="268436259" symbol="WatchFace"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="2" lineNum="9" parent="globals/WatchFaceView" pc="268435486" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="5" lineNum="16" parent="globals/WatchFaceView" pc="268435505" symbol="onLayout"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="5" lineNum="17" parent="globals/WatchFaceView" pc="268435507" symbol="onLayout"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="7" lineNum="11" parent="globals/WatchFaceView" pc="268435549" symbol="initialize"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="7" lineNum="12" parent="globals/WatchFaceView" pc="268435551" symbol="initialize"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="9" lineNum="27" parent="globals/WatchFaceView" pc="268435570" symbol="onUpdate"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="9" lineNum="29" parent="globals/WatchFaceView" pc="268435574" symbol="onUpdate"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="9" lineNum="30" parent="globals/WatchFaceView" pc="268435591" symbol="onUpdate"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="9" lineNum="31" parent="globals/WatchFaceView" pc="268435608" symbol="onUpdate"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="9" lineNum="32" parent="globals/WatchFaceView" pc="268435625" symbol="onUpdate"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="9" lineNum="34" parent="globals/WatchFaceView" pc="268435662" symbol="onUpdate"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="9" lineNum="35" parent="globals/WatchFaceView" pc="268435736" symbol="onUpdate"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="9" lineNum="43" parent="globals/WatchFaceView" pc="268435812" symbol="onUpdate"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="9" lineNum="49" parent="globals/WatchFaceView" pc="268435856" symbol="onUpdate"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="9" lineNum="50" parent="globals/WatchFaceView" pc="268435886" symbol="onUpdate"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="9" lineNum="52" parent="globals/WatchFaceView" pc="268435916" symbol="onUpdate"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="9" lineNum="53" parent="globals/WatchFaceView" pc="268435944" symbol="onUpdate"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="9" lineNum="55" parent="globals/WatchFaceView" pc="268435958" symbol="onUpdate"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="9" lineNum="56" parent="globals/WatchFaceView" pc="268435986" symbol="onUpdate"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="9" lineNum="58" parent="globals/WatchFaceView" pc="268436000" symbol="onUpdate"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="9" lineNum="59" parent="globals/WatchFaceView" pc="268436028" symbol="onUpdate"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="9" lineNum="61" parent="globals/WatchFaceView" pc="268436042" symbol="onUpdate"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="9" lineNum="62" parent="globals/WatchFaceView" pc="268436070" symbol="onUpdate"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="9" lineNum="64" parent="globals/WatchFaceView" pc="268436084" symbol="onUpdate"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="9" lineNum="65" parent="globals/WatchFaceView" pc="268436112" symbol="onUpdate"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceView.mc" id="9" lineNum="68" parent="globals/WatchFaceView" pc="268436126" symbol="onUpdate"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/bin/gen/006-B4024-00/source/Rez.mcgen" id="10" lineNum="7" parent="globals/Rez" pc="268436151" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceApp.mc" id="11" lineNum="5" parent="globals/WatchFaceApp" pc="268436175" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceApp.mc" id="12" lineNum="12" parent="globals/WatchFaceApp" pc="268436194" symbol="onStart"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceApp.mc" id="13" lineNum="20" parent="globals/WatchFaceApp" pc="268436197" symbol="getInitialView"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceApp.mc" id="13" lineNum="21" parent="globals/WatchFaceApp" pc="268436199" symbol="getInitialView"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceApp.mc" id="14" lineNum="7" parent="globals/WatchFaceApp" pc="268436240" symbol="initialize"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceApp.mc" id="14" lineNum="8" parent="globals/WatchFaceApp" pc="268436242" symbol="initialize"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/source/WatchFaceApp.mc" id="15" lineNum="16" parent="globals/WatchFaceApp" pc="268436261" symbol="onStop"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/bin/gen/006-B4024-00/source/Rez.mcgen" id="16" lineNum="19" parent="globals/Rez/Layouts" pc="268436264" symbol="WatchFace"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/bin/gen/006-B4024-00/source/Rez.mcgen" id="16" lineNum="20" parent="globals/Rez/Layouts" pc="268436276" symbol="WatchFace"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/bin/gen/006-B4024-00/source/Rez.mcgen" id="16" lineNum="22" parent="globals/Rez/Layouts" pc="268436388" symbol="WatchFace"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/bin/gen/006-B4024-00/source/Rez.mcgen" id="16" lineNum="24" parent="globals/Rez/Layouts" pc="268436500" symbol="WatchFace"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/bin/gen/006-B4024-00/source/Rez.mcgen" id="16" lineNum="26" parent="globals/Rez/Layouts" pc="268436612" symbol="WatchFace"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/bin/gen/006-B4024-00/source/Rez.mcgen" id="16" lineNum="28" parent="globals/Rez/Layouts" pc="268436724" symbol="WatchFace"/>
+        <entry filename="/Users/chrisbrunet/Documents/Career/Personal_Projects/Garmin/Garmin-Watch-Face/bin/gen/006-B4024-00/source/Rez.mcgen" id="16" lineNum="30" parent="globals/Rez/Layouts" pc="268436836" symbol="WatchFace"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="8388639" module="true" symbol="Graphics"/>
@@ -40,6 +54,7 @@
         <entry id="8388924" module="true" symbol="Gregorian"/>
         <entry field="true" id="8388611" module="true" symbol="Toybox"/>
         <entry field="true" id="14" symbol="AppName"/>
+        <entry id="8388633" module="true" symbol="ActivityMonitor"/>
         <entry id="8" module="true" symbol="globals/Rez/Strings"/>
         <entry id="8388772" module="true" object="true" symbol="Fonts"/>
         <entry id="8388648" module="true" symbol="WatchUi"/>
@@ -83,16 +98,27 @@
     </symbolTable>
     <localVars>
         <entry arg="true" endPc="268435548" name="dc" stackId="1" startPc="268435505"/>
-        <entry arg="true" endPc="268435886" name="dc" stackId="1" startPc="268435570"/>
-        <entry endPc="268435885" name="clockTime" stackId="2" startPc="268435574"/>
-        <entry endPc="268435885" name="timeString" stackId="3" startPc="268435574"/>
-        <entry endPc="268435885" name="today" stackId="4" startPc="268435574"/>
-        <entry endPc="268435885" name="dateString" stackId="5" startPc="268435574"/>
-        <entry endPc="268435885" name="timeView" stackId="6" startPc="268435574"/>
-        <entry endPc="268435885" name="dateView" stackId="7" startPc="268435574"/>
-        <entry arg="true" endPc="268436285" name="dc" stackId="1" startPc="268436000"/>
-        <entry endPc="268436285" name="rez_cmp_local_text_TimeLabel" stackId="2" startPc="268436012"/>
-        <entry endPc="268436285" name="rez_cmp_local_text_DateLabel" stackId="3" startPc="268436012"/>
+        <entry arg="true" endPc="268436150" name="dc" stackId="1" startPc="268435570"/>
+        <entry endPc="268436149" name="clockTime" stackId="2" startPc="268435574"/>
+        <entry endPc="268436149" name="myStats" stackId="3" startPc="268435574"/>
+        <entry endPc="268436149" name="info" stackId="4" startPc="268435574"/>
+        <entry endPc="268436149" name="today" stackId="5" startPc="268435574"/>
+        <entry endPc="268436149" name="timeString" stackId="6" startPc="268435574"/>
+        <entry endPc="268436149" name="dateString" stackId="7" startPc="268435574"/>
+        <entry endPc="268436149" name="weekDayString" stackId="8" startPc="268435574"/>
+        <entry endPc="268436149" name="batteryString" stackId="9" startPc="268435574"/>
+        <entry endPc="268436149" name="stepsString" stackId="10" startPc="268435574"/>
+        <entry endPc="268436149" name="timeView" stackId="11" startPc="268435574"/>
+        <entry endPc="268436149" name="dateView" stackId="12" startPc="268435574"/>
+        <entry endPc="268436149" name="weekDayView" stackId="13" startPc="268435574"/>
+        <entry endPc="268436149" name="batteryView" stackId="14" startPc="268435574"/>
+        <entry endPc="268436149" name="stepsView" stackId="15" startPc="268435574"/>
+        <entry arg="true" endPc="268436892" name="dc" stackId="1" startPc="268436264"/>
+        <entry endPc="268436892" name="rez_cmp_local_text_TimeLabel" stackId="2" startPc="268436276"/>
+        <entry endPc="268436892" name="rez_cmp_local_text_DateLabel" stackId="3" startPc="268436276"/>
+        <entry endPc="268436892" name="rez_cmp_local_text_WeekDayLabel" stackId="4" startPc="268436276"/>
+        <entry endPc="268436892" name="rez_cmp_local_text_BatteryLabel" stackId="5" startPc="268436276"/>
+        <entry endPc="268436892" name="rez_cmp_local_text_StepsLabel" stackId="6" startPc="268436276"/>
     </localVars>
     <annotations>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
@@ -136,27 +162,27 @@
         <functionEntry accessMode="public" name="onHide" parent="WatchFaceView">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268435886" name="onUpdate" parent="WatchFaceView" startPc="268435570">
+        <functionEntry accessMode="public" endPc="268436150" name="onUpdate" parent="WatchFaceView" startPc="268435570">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268435910" name="&lt;init&gt;" parent="Rez" startPc="268435887">
+        <functionEntry accessMode="public" endPc="268436174" name="&lt;init&gt;" parent="Rez" startPc="268436151">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268435929" name="&lt;init&gt;" parent="WatchFaceApp" startPc="268435911">
+        <functionEntry accessMode="public" endPc="268436193" name="&lt;init&gt;" parent="WatchFaceApp" startPc="268436175">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268435932" name="onStart" parent="WatchFaceApp" startPc="268435930">
+        <functionEntry accessMode="public" endPc="268436196" name="onStart" parent="WatchFaceApp" startPc="268436194">
             <param id="state"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268435975" name="getInitialView" parent="WatchFaceApp" startPc="268435933">
+        <functionEntry accessMode="public" endPc="268436239" name="getInitialView" parent="WatchFaceApp" startPc="268436197">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268435996" name="initialize" parent="WatchFaceApp" startPc="268435976">
+        <functionEntry accessMode="public" endPc="268436260" name="initialize" parent="WatchFaceApp" startPc="268436240">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268435999" name="onStop" parent="WatchFaceApp" startPc="268435997">
+        <functionEntry accessMode="public" endPc="268436263" name="onStop" parent="WatchFaceApp" startPc="268436261">
             <param id="state"/>
             <documentation/>
         </functionEntry>
@@ -178,7 +204,7 @@
         <functionEntry accessMode="public" name="&lt;init&gt;" parent="JsonData">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268436285" name="WatchFace" parent="Layouts" startPc="268436000">
+        <functionEntry accessMode="public" endPc="268436892" name="WatchFace" parent="Layouts" startPc="268436264">
             <param id="dc"/>
             <documentation/>
         </functionEntry>

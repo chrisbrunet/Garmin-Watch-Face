@@ -4,6 +4,7 @@ import Toybox.System;
 import Toybox.WatchUi;
 import Toybox.Time;
 import Toybox.Time.Gregorian;
+import Toybox.ActivityMonitor;
 
 class WatchFaceView extends WatchUi.WatchFace {
 
@@ -26,22 +27,42 @@ class WatchFaceView extends WatchUi.WatchFace {
     function onUpdate(dc as Dc) as Void {
         // Get and show the current time
         var clockTime = System.getClockTime();
+        var myStats = System.getSystemStats();
+        var info = ActivityMonitor.getInfo();
+        var today = Gregorian.info(Time.now(), Time.FORMAT_LONG);
+
         var timeString = Lang.format("$1$:$2$", [clockTime.hour, clockTime.min.format("%02d")]);
-        var today = Gregorian.info(Time.now(), Time.FORMAT_MEDIUM);
         var dateString = Lang.format(
             "$1$ $2$ $3$",
             [
-                today.day,
                 today.month,
+                today.day,
                 today.year
             ]
         );
+        var weekDayString = Lang.format(
+            "$1$",
+            [
+                today.day_of_week
+            ]
+        );
+        var batteryString = myStats.battery.format("%d") + "%";
+        var stepsString = info.steps.format("%d") + " Steps";
 
         var timeView = View.findDrawableById("TimeLabel") as Text;
         timeView.setText(timeString);
 
         var dateView = View.findDrawableById("DateLabel") as Text;
         dateView.setText(dateString);
+
+        var weekDayView = View.findDrawableById("WeekDayLabel") as Text;
+        weekDayView.setText(weekDayString);
+
+        var batteryView = View.findDrawableById("BatteryLabel") as Text;
+        batteryView.setText(batteryString);
+
+        var stepsView = View.findDrawableById("StepsLabel") as Text;
+        stepsView.setText(stepsString);
 
         // Call the parent onUpdate function to redraw the layout
         View.onUpdate(dc);
